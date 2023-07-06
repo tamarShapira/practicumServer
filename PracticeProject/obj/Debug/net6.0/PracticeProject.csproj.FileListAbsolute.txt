@@ -1,0 +1,36 @@
+D:\תמר תכנות\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+D:\תמר תכנות\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\refint\PracticeProject.dll
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\PracticeProject\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\refint\PracticeProject.dll
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\refint\PracticeProject.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll

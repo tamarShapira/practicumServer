@@ -1,0 +1,51 @@
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Services.deps.json
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\PracticeProject\Services\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.dll
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\refint\Services.dll
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.pdb
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+D:\תמר תכנות\PracticeProject\Services\obj\Debug\net6.0\ref\Services.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Services.deps.json
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Services\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\refint\Services.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Services\obj\Debug\net6.0\ref\Services.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Services.deps.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\refint\Services.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Services\obj\Debug\net6.0\ref\Services.dll

@@ -1,0 +1,279 @@
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\appsettings.Development.json
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\appsettings.json
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\UI.exe
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\UI.deps.json
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\UI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\UI.pdb
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Azure.Core.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Humanizer.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\PracticeProject\UI\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CopyComplete
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.dll
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\refint\UI.dll
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.pdb
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+D:\תמר תכנות\PracticeProject\UI\obj\Debug\net6.0\ref\UI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\appsettings.Development.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\appsettings.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\UI.exe
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\UI.deps.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\UI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\UI.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Azure.Core.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Humanizer.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\UI\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\refint\UI.dll
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\PracticeProject\UI\obj\Debug\net6.0\ref\UI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\appsettings.Development.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\appsettings.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\UI.exe
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\UI.deps.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\UI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\UI.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Azure.Core.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Humanizer.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Services.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Services.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\refint\UI.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\UI\obj\Debug\net6.0\ref\UI.dll

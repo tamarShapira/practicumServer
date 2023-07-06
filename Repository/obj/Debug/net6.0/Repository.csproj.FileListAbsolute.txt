@@ -1,0 +1,42 @@
+D:\תמר תכנות\PracticeProject\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\תמר תכנות\PracticeProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\תמר תכנות\PracticeProject\Repository\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\PracticeProject\Repository\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.dll
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\תמר תכנות\PracticeProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\PracticeProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\bin\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\bin\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.pdb
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרקטיקום\PracticeProject\Repository\obj\Debug\net6.0\ref\Repository.dll
